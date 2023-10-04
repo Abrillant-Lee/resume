@@ -35,6 +35,7 @@ main: #简历主要内容，
 
   - type: skills
     name: 技能
+    content:
       - title: 技术栈和编程语言
         items:
           - Linux
@@ -47,14 +48,14 @@ main: #简历主要内容，
           2. 熟练使用 Fusion36等建模，能够进行产品结构和外观设计 <br>
       - title: 软件技能
         detail:
-         1. 熟练Git、Docker工具使用，
-         2. 练使用VIM进行日常开发, 目前使用的是Vscode+vim, Powershell+vim, Obsidian+vim日常开发
+          1. 熟练Git、Docker工具使用，
+          2. 练使用VIM进行日常开发, 目前使用的是Vscode+vim, Powershell+vim, Obsidian+vim日常开发
       - title: 其他技能
         detail:
-        1. 熟悉各种开源平台与软硬件资源，有独立研发简单机器人和智能产品的能力 <br> &nbsp; &numsp;
-        2. 良好的专业英语文档和资料阅读和使用能力 <br> &nbsp; &numsp;
-        3. 较强的信息检索能力，能够快速学习新技术与开发环境，适应不同项目需求 <br> &nbsp; &numsp;
-        4. 一定的沟通表达能力，能够与不同技术背景的人交流技术问题和方案
+          1. 熟悉各种开源平台与软硬件资源，有独立研发简单机器人和智能产品的能力 <br> &nbsp; &numsp;
+          2. 良好的专业英语文档和资料阅读和使用能力 <br> &nbsp; &numsp;
+          3. 较强的信息检索能力，能够快速学习新技术与开发环境，适应不同项目需求 <br> &nbsp; &numsp;
+          4. 一定的沟通表达能力，能够与不同技术背景的人交流技术问题和方案
 
 
   - type: experience
