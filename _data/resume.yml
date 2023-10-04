@@ -7,12 +7,11 @@ photo: "assets/img/photo.png"
 #联系方式
 contact:
   - text: "haonan.brillant@gmail.com"
-    href: "mailto:youremail@example.com"
+    href: "emial:haonan.brillant@gmail.com"
     icon: "icons/email.svg"
   - text: "13140089756"
     href: "tel:1234567890"
     icon: "icons/phone.svg"
-    attr: 'target="_blank"'
   - text: "your-website.com"
     href: "http://your-website.com"
     icon: "icons/web.svg"
@@ -37,18 +36,17 @@ main: #简历主要内容，
   - type: skills
     name: 技能
       - title: 技术栈和编程语言
-        name: 技能
         items:
           - Linux
           - Docker
           - Fusion360
-          - 编程语言: C、C++、Python、Shell
+          - 编程语言:C、C++、Python、Shell
       - title: 硬件技能
         detail:
           1. 熟悉 ESP32、STM32 和 Arduino 等 MCU 的外围电路设计及其软件开发;
           2. 熟练使用 Fusion36等建模，能够进行产品结构和外观设计 <br>
       - title: 软件技能
-       detail:
+        detail:
          1. 熟练Git、Docker工具使用，
          2. 练使用VIM进行日常开发, 目前使用的是Vscode+vim, Powershell+vim, Obsidian+vim日常开发
       - title: 其他技能
