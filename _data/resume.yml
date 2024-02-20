@@ -85,32 +85,21 @@ main: #简历主要内容，
     content:
       - title: 基于多传感器融合的五轴数控联动系统
         duration: 2023年3月 - 2023年9月
-        detail: 项目和工作介绍，项目总结.
-        sub: 维护者
-      - title: Project Name
-        summary: Projects' introduction or summary
-        detail:
-          md: _data/demo.md
-        sub: Creator and maintainer.
-        #可继续添加更多内容
+        detail: 
+          md: _data/five_axis.md
+        sub: 物联网模块负责人
+      - title: 基于昇腾的储能电池仓恒温控制系统
+        duration: 2023年9月 - 2023年10月
+        detail: 
+          md: _data/battery.md
+        sub: 项目辅助负责人
 
-#others 其他简略内容(列表)
-others: #其他列表显示
-  - type: others #ID可以为空
-    name: "其他"
-    content: #选择需要的格式
-      - 单行文字
-      - title: "加粗:"
-        text: "列表项二"
-      - title: "兴趣:"
-        items: #单行列表
-          - 睡觉
-          - 吃饭
-          - coding
-      - title: 列表
-        list:
-          - 第一项
-          - 第二项
+      - title: 碳效智控办公节能管家
+        duration: 2023年11月 - 至今
+        detail: 
+          md: _data/SCT.md
+        sub: 硬件模块负责人
+
 #- type:
 #  name: '其他'
 #  content: #选择需要的格式
