@@ -44,16 +44,22 @@ main: #简历主要内容，
           - 编程语言:C、C++、Python、Shell
       - title: 硬件技能
         detail:
-          1.熟悉 STM32、ESP32 、Hi3861等 MCU 的外围电路设计及其软件开发；
-          2.熟悉树莓派、Atlas-DK-200、imx6ull等linux系统开发板开发
-          3.了解嘉立创EDA、Fusion、solidworks等建模和电子设计工具
+          1.熟悉 STM32、ESP32 、Hi3861等 MCU 的外围电路设计及其软件开发；\n
+
+          2.熟悉树莓派、Atlas-DK-200、imx6ull等linux系统开发板开发；\n
+
+          3.了解嘉立创EDA、Fusion、solidworks等建模和电子设计工具；\n
 
       - title: 软件技能
         detail:
-          1.前端：了解Web三件套、echatjs图表库、微信小程序、鸿蒙开发
-          2.后端：熟练linxu系统命令行开发，了解mysql、opengauss数据库，django框架开发
-          3.算法：了解pytroch、mindspore框架的基础使用
-          4.工具：熟练vim、git、docker工具使用
+          1.前端：了解Web三件套、echatjs图表库、微信小程序、鸿蒙开发；\n
+
+          2.后端：熟练linxu系统命令行开发，了解mysql、opengauss数据库，django框架开发；\n
+
+          3.算法：了解pytroch、mindspore框架的基础使用；\n
+
+          4.工具：熟练vim、git、docker工具使用；\n
+
       - title: 其他技能
         detail:
           1. 熟悉各种开源平台与软硬件资源，有独立研发简单机器人和智能产品的能力 <br> &nbsp; &numsp;
