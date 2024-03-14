@@ -44,27 +44,22 @@ main: #简历主要内容，
           - 编程语言:C、C++、Python、Shell
       - title: 硬件技能
         detail:
-          1.熟悉 STM32、ESP32 、Hi3861等 MCU 的外围电路设计及其软件开发；
-
-          2.熟悉树莓派、Atlas-DK-200、imx6ull等linux系统开发板开发；
-
-          3.了解嘉立创EDA、Fusion、solidworks等建模和电子设计工具；
+          1.熟悉 STM32、ESP32 、Hi3861等 MCU 的外围电路设计及其软件开发；<br> &nbsp; &numsp;
+          2.熟悉树莓派、Atlas-DK-200、imx6ull等linux系统开发板开发；<br> &nbsp; &numsp;
+          3.了解嘉立创EDA、Fusion、solidworks等建模和电子设计工具；<br> &nbsp; &numsp;
 
       - title: 软件技能
         detail:
-          1.前端：了解Web三件套、echatjs图表库、微信小程序、鸿蒙开发；
-
-          2.后端：熟练linxu系统命令行开发，了解mysql、opengauss数据库，django框架开发； 
-
-          3.算法：了解pytroch、mindspore框架的基础使用；
-
-          4.工具：熟练vim、git、docker工具使用；
+          1.前端：了解Web三件套、echatjs图表库、微信小程序、鸿蒙开发；<br> &nbsp; &numsp;
+          2.后端：熟练linxu系统命令行开发，了解mysql、opengauss数据库，django框架开发； <br> &nbsp; &numsp;
+          3.算法：了解pytroch、mindspore框架的基础使用；<br> &nbsp; &numsp;
+          4.工具：熟练vim、git、docker工具使用；<br> &nbsp; &numsp;
 
       - title: 其他技能
         detail:
           1. 熟悉各种开源平台与软硬件资源，有独立研发简单机器人和智能产品的能力 <br> &nbsp; &numsp;
           2. 较强的信息检索能力，能够快速学习新技术与开发环境，适应不同项目需求 <br> &nbsp; &numsp;
-          3. 一定的沟通表达能力，能够与不同技术背景的人交流技术问题和方案
+          3. 一定的沟通表达能力，能够与不同技术背景的人交流技术问题和方案 <br> &nbsp; &numsp;
 
 
   - type: experience
@@ -78,13 +73,6 @@ main: #简历主要内容，
         detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
         # open: open
         #可以设置open默认展开
-      - title: Job Title
-        sub: Your 2nd, Inc.
-        duration: Apr 2013 - Mar 2016
-        tags:
-          - tagname
-        summary: Summary your job or work. (Collapse)
-        detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   - type: 项目 
     name: Projects
