@@ -29,7 +29,7 @@ main: #简历主要内容，
     name: 教育
     content:
       - title: 郑州轻工业大学
-        duration: 2022 年 09 月 - 至今
+        duration: 2021 年 09 月 - 至今
         sub: 本科
         detail: 计算机技术与科学(嵌入式软件)
 
