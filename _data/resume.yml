@@ -12,12 +12,12 @@ contact:
   - text: "13140089756"
     href: "tel:1234567890"
     icon: "icons/phone.svg"
-  - text: "your-website.com"
-    href: "http://your-website.com"
+  - text: "abrillantlee.top"
+    href: "http://abrillant-lee.github.io"
     icon: "icons/web.svg"
     attr: 'target="_blank"'
   - text: "Abrillant-Lee"
-    href: "https://github.com/NewFuture"
+    href: "https://github.com/Abrillant-Lee"
     icon: "icons/github.svg"
     attr: 'target="_blank"'
     # - text: "地址"
@@ -52,15 +52,13 @@ main: #简历主要内容，
         detail:
           1.前端：了解Web三件套、echatjs图表库、微信小程序、鸿蒙开发；<br> &nbsp; &numsp;
           2.后端：熟练linxu系统命令行开发，了解mysql、opengauss数据库，django框架开发； <br> &nbsp; &numsp;
-          3.算法：了解pytroch、mindspore框架的基础使用；<br> &nbsp; &numsp;
-          4.工具：熟练vim、git、docker工具使用；<br> &nbsp; &numsp;
+          3.工具：熟练vim、git、docker工具使用；<br> &nbsp; &numsp;
 
       - title: 其他技能
         detail:
           1. 熟悉各种开源平台与软硬件资源，有独立研发简单机器人和智能产品的能力 <br> &nbsp; &numsp;
           2. 较强的信息检索能力，能够快速学习新技术与开发环境，适应不同项目需求 <br> &nbsp; &numsp;
           3. 一定的沟通表达能力，能够与不同技术背景的人交流技术问题和方案 <br> &nbsp; &numsp;
-
 
   - type: experience
     name: 经历
